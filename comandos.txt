@@ -12,3 +12,9 @@ git commit -m "Meu primeiro commit"
 
 -> Enviar arquivos locais para nuvem
 git push
+
+-> Clonar o repositório
+git clone (endereço)
+
+-> Baixar atualização da nuvem do github para uma pasta já existente
+git pull
