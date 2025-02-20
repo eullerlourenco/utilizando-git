@@ -9,3 +9,6 @@ git add .
 
 -> Salva uma versão dos arquivos
 git commit -m "Meu primeiro commit"
+
+-> Enviar arquivos locais para nuvem
+git push
