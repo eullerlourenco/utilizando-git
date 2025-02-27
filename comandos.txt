@@ -1,3 +1,7 @@
+-> Configura o pc com nome e e-mail do responsável pelo código
+git config --global user.name "Euller Lourenço"
+git config --global user.email "meuemail@gmail.com"
+
 -> Inicializa um repositório git
 git init 
 
@@ -14,7 +18,7 @@ git commit -m "Meu primeiro commit"
 git push
 
 -> Clonar o repositório
-git clone (endereço)
+git clone (endereço do repositório git)
 
 -> Baixar atualização da nuvem do github para uma pasta já existente
 git pull
